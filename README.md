@@ -149,7 +149,7 @@ class YourSkill(Skill):
 
 ### 完整测试案例
 
-见 [test.py](https://test.py/)
+见 [test.py](test.py)
 
 ------
 
