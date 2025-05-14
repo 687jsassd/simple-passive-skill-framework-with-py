@@ -4,6 +4,10 @@
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 
+##需要处理更复杂、更自定义的情况？
+EvFrame用于高策略性RPG游戏的复杂事件处理,可以适应于需要高度自定义和动态修改事件处理逻辑的或者多层嵌套和连锁的复杂系统，
+如果你需要这种高复杂度的事件，请移步
+👉[EvFrame框架](https://github.com/687jsassd/ComplexEvent_RPGframe--Python-)
 ## 目录
 - [核心特性](#核心特性)
 - [快速开始](#快速开始)
